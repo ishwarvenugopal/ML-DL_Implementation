@@ -22,3 +22,5 @@ The following techniques have been implemented:
 * PCA (Dimensionality Reduction)
 * Outlier Detection
 * Feature Selection
+* Bootstrapping
+* Permutation Test (p-value)
