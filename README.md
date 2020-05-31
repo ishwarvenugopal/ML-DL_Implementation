@@ -4,7 +4,7 @@
 
 The following techniques have been implemented:
 
-### Machine Learning:
+### Machine Learning Models:
 
 * Decision Tree Classifier
 * K-nn classifier
