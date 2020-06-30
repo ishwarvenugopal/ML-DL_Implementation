@@ -24,3 +24,8 @@ The following techniques have been implemented:
 * Feature Selection
 * Bootstrapping
 * Permutation Test (p-value)
+
+### Deep Learning
+
+* Convolutional Neural Networks (Image Classification using MNIST and CIFAR-10 dataset)
+* Multi-layer Perceptron (Using PyTorch and Keras framework)
